@@ -32,5 +32,4 @@
 
 地面站：Mission Planer、Clearflight、Betaflight、LibrePilot、dRomin
 
-興趣是打打籃球、飛飛四軸、打打嘴砲、~~供女友驅使？~~
 
